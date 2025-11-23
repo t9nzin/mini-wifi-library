@@ -29,7 +29,7 @@ domain books for you to read.
 
 ## Authors
 
-[@t9nz](https://github.com/t9nz)
+[@t9nzin](https://github.com/t9nzin)
 [@iffybooks](https://iffybooks.net/)
 
 ## Version History
