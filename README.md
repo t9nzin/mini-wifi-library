@@ -42,8 +42,8 @@ domain books for you to read.
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
+Original code sourced from IffyBooks.net, modified by me. Full tutorial & hardware @ https://iffybooks.net/wp-content/uploads/zines/Iffy_Books_Pocket_Wifi_Portal_Zine_screen.pdf 
 
-Inspiration, code snippets, etc.
 * [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 * [Iffy-Books](https://iffybooks.net)
 * [ascii-art](https://www.asciiart.eu/)
